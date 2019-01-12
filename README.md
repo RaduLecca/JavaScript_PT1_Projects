@@ -5,7 +5,7 @@ Trainer: @Dragos Dehelean
 **Studenti**:
 
 * [Lorena](https://github.com/Lorena4/JavaScript-Projects) 
-* [Radu]()
+* [Radu](https://github.com/RaduLecca/JavascriptProjects)
 * [Vlad](https://github.com/meemknight)
 * [Mihai](https://github.com/ManuMihai/Proiecte-JavaScript_StepIT)
 * [Erick](https://github.com/andreaserick/JavaScript-Projects)
